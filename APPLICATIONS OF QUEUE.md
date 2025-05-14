@@ -1,11 +1,8 @@
 # Exp.No:14A
 ## APPLICATIONS OF QUEUE
-
 ---
-
 ### AIM  
 To write a Python program to implement CPU Process Scheduling using a queue.
-
 ---
 
 ### ALGORITHM  
